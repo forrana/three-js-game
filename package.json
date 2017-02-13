@@ -1,0 +1,14 @@
+{
+  "name": "3dGame",
+  "version": "0.0.1",
+  "description": "just simple three.js game",
+  "main": "index.js",
+  "repository": "https://github.com/forrana/three-js-game.git",
+  "author": "forrana",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1",
+    "three": "^0.84.0"
+  }
+}
